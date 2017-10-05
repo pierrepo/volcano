@@ -3,12 +3,20 @@
 
 ## Dépôts
 
-- [Dépôt (privé) de Fabien](https://github.com/pierrepo/volcano-f)
-- [Dépôt (privé) de Nicolas](https://github.com/pierrepo/volcano-n)
+- [Dépôt](https://github.com/pierrepo/volcano-f) (privé) de [Fabien](https://github.com/fab-genty)
+- [Dépôt](https://github.com/pierrepo/volcano-n) (privé) de [Nicolas](https://github.com/NicolasBRUNEAU)
 
+La licence *BSD 3-clause* est pas mal. On peut la trouver [ici](https://github.com/Candihub/pixel/blob/master/LICENSE).
+
+Organisation du dépôt :
+
+    volcano             répertoire contenant les fichiers du serveur web
+    README.md           notice d'installation et d'utilisation
+    requirements.txt    paquets Python à installer avec pip
+
+Un exemple de [README.md](https://github.com/pierrepo/cours-python/blob/master/README.md)
 
 ## Ressources web
-
 
 ### CSS
 
