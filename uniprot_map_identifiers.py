@@ -39,9 +39,12 @@ def convert(ids, format_from, format_to, format_output='tab'):
         'columns': 'id,entry name,reviewed,length', 
         'query': ' '.join(ids)
     }
+    # Add email address here to help UniProt to debug in case of problem
+    contact = 'bob@mail.net'
+    headers = {'User-Agent': 'Python bot / '.format(contact)}
     data = urllib.parse.urlencode(params)
     data = data.encode('ascii') # data should be bytes
-    req = urllib.request.Request(url, data)
+    req = urllib.request.Request(url, data, headers)
     page = ""
     try:
         response = urllib.request.urlopen(req)
