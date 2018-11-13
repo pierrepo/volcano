@@ -3,8 +3,8 @@
 
 ## Dépôts
 
-- [Dépôt](https://github.com/pierrepo/volcano-f) (privé) de [Fabien](https://github.com/fab-genty)
-- [Dépôt](https://github.com/pierrepo/volcano-n) (privé) de [Nicolas](https://github.com/NicolasBRUNEAU)
+- [Dépôt](https://github.com/pierrepo/volcano-x) (privé) de [étu1](https://github.com/étu1)
+- [Dépôt](https://github.com/pierrepo/volcano-y) (privé) de [étu2](https://github.com/étu2)
 
 La licence *BSD 3-clause* est très bien. On peut la trouver [ici](https://github.com/Candihub/pixel/blob/master/LICENSE).
 
