@@ -20,7 +20,6 @@ Un exemple de [README.md](https://github.com/pierrepo/cours-python/blob/master/R
 
 ### Frameworks CSS
 
-- Zurb [Foundation](https://foundation.zurb.com/) : doc d'[installation](https://foundation.zurb.com/sites/docs/)
 - Twitter [Bootstrap](http://getbootstrap.com/) : doc d'[installation](https://foundation.zurb.com/sites/docs/)
 
 
