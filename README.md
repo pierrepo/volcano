@@ -9,10 +9,12 @@
 La licence *BSD 3-clause* est très bien. On peut la trouver [ici](https://github.com/Candihub/pixel/blob/master/LICENSE).
 
 Organisation du dépôt :
-
-    volcano/             répertoire contenant les fichiers du serveur web
-    README.md           notice d'installation et d'utilisation
-    requirements.txt    paquets Python à installer avec pip
+```
+volcano/            répertoire contenant les fichiers du serveur web
+LICENSE             fichier de licence
+README.md           notice d'installation et d'utilisation
+requirements.txt    paquets Python à installer avec pip
+```
 
 Un exemple de [README.md](https://github.com/pierrepo/cours-python/blob/master/README.md)
 
