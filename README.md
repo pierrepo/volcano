@@ -6,7 +6,7 @@
 - [Dépôt](https://github.com/pierrepo/volcano-f) (privé) de [Fabien](https://github.com/fab-genty)
 - [Dépôt](https://github.com/pierrepo/volcano-n) (privé) de [Nicolas](https://github.com/NicolasBRUNEAU)
 
-La licence *BSD 3-clause* est pas mal. On peut la trouver [ici](https://github.com/Candihub/pixel/blob/master/LICENSE).
+La licence *BSD 3-clause* est très bien. On peut la trouver [ici](https://github.com/Candihub/pixel/blob/master/LICENSE).
 
 Organisation du dépôt :
 
